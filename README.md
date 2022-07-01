@@ -1,4 +1,4 @@
-# donation-autom-payment-
+# donation-atom-payment-
 Payment page in php
 
 1. You can download zip file
